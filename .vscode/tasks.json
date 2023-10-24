@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "type": "cppbuild",
+      "label": "build",
+      "command": "/usr/bin/clang",
+      "args": ["-g", "main.c", "mergeable-pages.c", "-o", "main"],
+      "options": {
+        "cwd": "${workspaceRoot}"
+      },
+      "problemMatcher": ["$gcc"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ],
+  "version": "2.0.0"
+}

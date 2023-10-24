@@ -1,0 +1,8 @@
+{
+  "[c]": {
+    "editor.tabSize": 4
+  },
+  "[plaintext]": {
+    "editor.tabSize": 2
+  }
+}

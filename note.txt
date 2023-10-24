@@ -1,0 +1,3 @@
+What kind of protection is required for RMP Leaf?
+DMA without intermediate shared page?
+Should comparing 2 pages be implemented as a separate instruction?
